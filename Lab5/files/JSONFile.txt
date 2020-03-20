@@ -1,0 +1,1 @@
+[{"name":"Danil","course":1,"form":"Day","specialization":"ISIT"},{"name":"Sanya","course":2,"form":"Day","specialization":"POIT"},{"name":"Misha","course":3,"form":"NOt day","specialization":"POIMBS"}]

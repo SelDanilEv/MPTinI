@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+    <Student name="Danil">
+        <course>1</course>
+        <form>Day</form>
+        <spec>ISIT</spec>
+    </Student>
+    <Student name="Sanya">
+        <course>2</course>
+        <form>Day</form>
+        <spec>POIT</spec>
+    </Student>
+    <Student name="Misha">
+        <course>3</course>
+        <form>NOt day</form>
+        <spec>POIMBS</spec>
+    </Student>
+</Students>

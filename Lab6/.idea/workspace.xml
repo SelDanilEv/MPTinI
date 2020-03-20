@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4554c23-8adf-4b1b-af4c-61fed6a8d347" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZIbgH9VH1CwxSnPeVjuQYTLlfG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.bstu.fit.poit.group4.selitsky.task1_2.Main" />
+      <module name="Lab6" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.bstu.fit.poit.group4.selitsky.task2.Main" />
+      <module name="Lab6" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="by.bstu.fit.poit.group4.selitsky.task1_1.Main" />
+      <module name="Lab6" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1584530449060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584530449060" />
+    <state width="1515" height="233" key="GridCell.Tab.0.bottom" timestamp="1584550013180">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="233" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584550013180" />
+    <state width="1515" height="233" key="GridCell.Tab.0.center" timestamp="1584550013180">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="233" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584550013180" />
+    <state width="1515" height="233" key="GridCell.Tab.0.left" timestamp="1584550013180">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="233" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584550013180" />
+    <state width="1515" height="233" key="GridCell.Tab.0.right" timestamp="1584550013180">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="233" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584550013180" />
+  </component>
+</project>
