@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="jdbc:sqlserver://localhost\DEFENDER-SD\MSSQLSERVERSEC:1433;database=Space" uuid="c0f92f36-21ad-41f3-88fa-be1e3e901007">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://localhost\DEFENDER-SD\MSSQLSERVERSEC:1433;database=Space</jdbc-url>
+    </data-source>
+  </component>
+</project>

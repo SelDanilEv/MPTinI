@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3c0ccfd-fef2-47a7-990d-10cf67a6a3a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Lab8" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZuHuClACkym8N87T2fnhdtnCDb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="TestNG.LibrarianTest (1)">
+    <configuration name="CalcTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Lab8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.devcolibri.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.devcolibri.logic" />
+      <option name="MAIN_CLASS_NAME" value="com.devcolibri.logic.CalcTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalcTest.testSum" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Lab8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.devcolibri.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.devcolibri.logic" />
+      <option name="MAIN_CLASS_NAME" value="com.devcolibri.logic.CalcTest" />
+      <option name="METHOD_NAME" value="testSum" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibrarianTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Lab8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.devcolibri.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.devcolibri.logic" />
+      <option name="MAIN_CLASS_NAME" value="com.devcolibri.logic.LibrarianTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibrarianTest" type="TestNG" nameIsGenerated="true">
+      <module name="Lab8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.devcolibri.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.devcolibri.logic" />
+      <option name="MAIN_CLASS_NAME" value="com.devcolibri.logic.LibrarianTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibrarianTest.testAddBook" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Lab8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.devcolibri.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.devcolibri.logic" />
+      <option name="MAIN_CLASS_NAME" value="com.devcolibri.logic.LibrarianTest" />
+      <option name="METHOD_NAME" value="testAddBook" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unit1" type="TestNG" nameIsGenerated="true">
+      <module name="Lab8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.devcolibri.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="unit1" />
+      <option name="TEST_OBJECT" value="GROUP" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.unit1" />
+      <item itemvalue="TestNG.LibrarianTest" />
+      <item itemvalue="TestNG.CalcTest" />
+      <item itemvalue="TestNG.CalcTest.testSum" />
+      <item itemvalue="TestNG.LibrarianTest.testAddBook" />
+      <item itemvalue="TestNG.LibrarianTest (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LibrarianTest (1)" />
+        <item itemvalue="TestNG.LibrarianTest.testAddBook" />
+        <item itemvalue="TestNG.CalcTest" />
+        <item itemvalue="TestNG.CalcTest.testSum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3c0ccfd-fef2-47a7-990d-10cf67a6a3a5" name="Default Changelist" comment="" />
+      <created>1585682278555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585682278555</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Auto_Import" timestamp="1585690469859">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Auto_Import/0.0.1536.824@0.0.1536.824" timestamp="1585690469859" />
+    <state x="477" y="60" key="#LibrarianTest" timestamp="1585694869019">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="44" key="#LibrarianTest.testAddBooks" timestamp="1585694803797">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="44" key="#LibrarianTest.testAddBooks/0.0.1536.824@0.0.1536.824" timestamp="1585694803797" />
+    <state x="477" y="44" key="#LibrarianTest.testRemoveBook" timestamp="1585694824293">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="44" key="#LibrarianTest.testRemoveBook/0.0.1536.824@0.0.1536.824" timestamp="1585694824293" />
+    <state x="477" y="60" key="#LibrarianTest/0.0.1536.824@0.0.1536.824" timestamp="1585694869019" />
+    <state x="361" y="71" key="#Project_Structure" timestamp="1585685949762">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1585685949762" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585694864507">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585694864507" />
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585693439130">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1585693439130" />
+    <state x="574" y="97" key="#com.intellij.ide.util.MemberChooser" timestamp="1585692559662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="97" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585692559662" />
+    <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585691538768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="523" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1585691538768" />
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585692217716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1585692217716" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1585739614266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585739614266" />
+    <state width="1493" height="161" key="GridCell.Tab.0.bottom" timestamp="1585694898517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="161" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585694898517" />
+    <state width="1493" height="161" key="GridCell.Tab.0.center" timestamp="1585694898517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="161" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585694898517" />
+    <state width="1493" height="161" key="GridCell.Tab.0.left" timestamp="1585694898517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="161" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585694898517" />
+    <state width="1493" height="161" key="GridCell.Tab.0.right" timestamp="1585694898517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="161" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585694898517" />
+    <state x="337" y="62" key="SettingsEditor" timestamp="1586273713422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="337" y="62" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586273713422" />
+    <state x="584" y="191" key="chooseDestDirectoryDialog" timestamp="1585686198618">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="584" y="191" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1585686198618" />
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1585738144621">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585738144621" />
+  </component>
+</project>

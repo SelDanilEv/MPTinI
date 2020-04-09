@@ -1,8 +1,5 @@
 package by.bstu.fit.poit.group4.selitsky.task1_1;
 
-
-import by.bstu.fit.poit.group4.selitsky.task1_1.Car;
-
 import java.util.ArrayDeque;
 
 public class Street {
@@ -41,7 +38,7 @@ public class Street {
             selectDirection = !selectDirection;
             this.countOfCars = 0;
         }
-        System.out.println("count = " + this.countOfCars + ", direction " + (selectDirection?1:2));
+        System.out.println("count = " + (this.countOfCars +1) + ", direction " + (selectDirection?1:2));
         driveAway();
     }
 
@@ -119,7 +116,7 @@ public class Street {
         for (Car c: this.firstDirection) {
             System.out.print(c.getCarsName()+" ");
         }
-        System.out.print("};\nSecond Direction { ");
+        System.out.print("}\nSecond Direction { ");
         for (Car c: this.secondDirection) {
             System.out.print(c.getCarsName()+" ");
         }

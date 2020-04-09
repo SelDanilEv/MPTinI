@@ -3,13 +3,9 @@ package by.bstu.fit.poit.group4.selitsky;
 import java.io.Serializable;
 import java.util.Comparator;
 
-enum State {
-    bad,
-    normal,
-    good,
-};
+;
 
-public abstract class AbstractCar implements IBreakable, IMovable , Serializable {
+public abstract class AbstractCar implements IBreakable, IMovable, Serializable {
     private String Description;
     public String Mark;
     public int cost;
@@ -19,7 +15,7 @@ public abstract class AbstractCar implements IBreakable, IMovable , Serializable
     public boolean IsAlive = true;
 
 
-    public class Engine implements IBreakable,Serializable {
+    public class Engine implements IBreakable, Serializable {
         public State EngineState;
         public int power;
         public boolean IsAlive = true;
@@ -27,6 +23,12 @@ public abstract class AbstractCar implements IBreakable, IMovable , Serializable
         public Engine(int power, State state) {
             this.power = power;
             EngineState = state;
+        }
+
+        public Engine(Engine eng) {
+            this.EngineState = eng.EngineState;
+            this.power = eng.power;
+            this.IsAlive = eng.IsAlive;
         }
 
         @Override
@@ -71,7 +73,7 @@ public abstract class AbstractCar implements IBreakable, IMovable , Serializable
 
     @Override
     public void Move() {
-        if (IsAlive&&CarEngine.IsAlive)
+        if (IsAlive && CarEngine.IsAlive)
             System.out.println("Transport moves " + Mark);
         else
             System.out.println("Transport broke " + Mark);
@@ -108,4 +110,9 @@ public abstract class AbstractCar implements IBreakable, IMovable , Serializable
             return o1.CarEngine.power - o2.CarEngine.power;
         }
     };
+
+    public void setEngine(Engine eng) {
+        this.CarEngine = new Engine(eng);
+        this.IsAlive = true;
+    }
 }
