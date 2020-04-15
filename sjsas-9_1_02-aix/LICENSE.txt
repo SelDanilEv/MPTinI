@@ -1,0 +1,25 @@
+
+Sun Microsystems, Inc.  ("Sun") ENTITLEMENT for SOFTWARE
+
+Licensee/Company:  Entity receiving Software.
+
+Effective Date:  Date of delivery of the Software to You.
+
+Software:  Sun Java System Application Server 9.1 Update 2.
+
+License Term:  Perpetual (subject to termination under the
+SLA).
+
+Licensed Unit:  Software Copy.
+
+Licensed unit Count:  Unlimited.
+
+Permitted Uses:  You may reproduce and use the Software for
+Your own Individual, Commercial, or Research and
+Instructional Use, subject to and conditioned on Your
+compliance with the Additional Terms below.
+
+Additional Terms:
+
+1.  Software includes only the versions of the above
+products that are made initially available to You.
