@@ -1,6 +1,6 @@
 create database [Space]
 use [Space]
-drop table Satellite
+
 create table Planet
 (
 	ID int identity not null,
@@ -26,12 +26,8 @@ insert into Satellite values
 (1560.8,'Europa',671100, 'Jupiter'),
 (11.1,'Phobos',9377.2,'Mars')
 
-select * from Satellite
-
 insert into Planet values
 ('Earth', 6371, 287.2, 'Y', 'Y', 'Moon'),
 ('Venus', 6051.8, 737, 'N', 'Y', ''),
 ('Mars', 3376.2, 210, 'N', 'Y', 'Phobos, Deimos'),
 ('Jupiter', 69911, 230, 'N', 'Y', 'Io, Europa, Ganymede, Callisto')
-
-select * from Planet
