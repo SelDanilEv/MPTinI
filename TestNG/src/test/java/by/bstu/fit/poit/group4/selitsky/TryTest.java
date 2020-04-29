@@ -6,7 +6,7 @@ import by.bstu.fit.poit.group4.selitsky.State;
 import org.testng.Assert;
 import org.testng.annotations.*;
 
-@Test
+
 public class TryTest {
 
     @BeforeMethod
@@ -66,9 +66,10 @@ public class TryTest {
 
     Car TestCar = new Car("TestCar", "Descr", 100, State.normal, State.normal, 1500, 100);
 
+
     @Test(enabled = false)
     public void testCarEngine(AbstractCar TestCar) {
-        Assert.assertEquals(State.good, TestCar.CarEngine.EngineState, TestCar.Mark);
+        Assert.assertEquals(State.normal, TestCar.CarEngine.EngineState, TestCar.Mark);
     }
 
 
@@ -85,13 +86,14 @@ public class TryTest {
 
     @Test
     public void testCarIsAliveBeforeBroke() {
+        Assert.assertEquals(true, TestCar.IsAlive, "Car is alive");
         TestCar.Break();
+        Assert.assertEquals(true, TestCar.IsAlive, "Car is alive");
         TestCar.Break();
-        Assert.assertEquals(false, TestCar.IsAlive, "Car don't alive");
+        Assert.assertEquals(false, TestCar.IsAlive, "Car isn't alive");
     }
 
     @Test
-    @BeforeClass
     public void testCarSetEngine() {
         Engine myEngine = new Engine(3500, State.normal);
         TestCar.setEngine(myEngine);

@@ -14,8 +14,6 @@ public abstract class AbstractCar implements IBreakable, IMovable, Serializable 
     public boolean IsAlive = true;
 
 
-
-
     public AbstractCar(String mark, String description, int power, State state, State engstate, int cost, int rentcost) {
         Mark = mark;
         Description = description;

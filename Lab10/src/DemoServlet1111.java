@@ -1,4 +1,4 @@
-import org.apache.log4j.PropertyConfigurator;
+//import org.apache.log4j.PropertyConfigurator;
 
 import javax.servlet.*;
 import javax.servlet.annotation.WebInitParam;
