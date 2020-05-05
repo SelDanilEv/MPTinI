@@ -1,5 +1,9 @@
 package User;
 
+import User.User;
+import User.DataBase;
+import User.ResourseUser;
+
 import javax.naming.NamingException;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -67,6 +71,7 @@ public class UserServlet extends HttpServlet {
         if (cUser != null && flagcorrectpassword==true) {
 
             request.setAttribute("UserInfo", cUser.toString());
+            request.setAttribute("UserLogin", cUser.name);
             request.setAttribute("CurrentDate", LocalDateTime.now());
             ArrayList<ResourseUser> resourseUsers =null;
             try {

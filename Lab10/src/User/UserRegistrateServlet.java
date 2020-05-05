@@ -1,5 +1,8 @@
 package User;
 
+import User.User;
+import User.DataBase;
+
 import javax.naming.NamingException;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -37,8 +40,12 @@ public class UserRegistrateServlet extends HttpServlet {
             request.getRequestDispatcher("register.jsp").
                     forward(request, response);
         }
+        if(inputPassword.length()<6) {
+            request.setAttribute("ErrorMessage", "Password is too short");
+            request.getRequestDispatcher("register.jsp").
+                    forward(request, response);
+        }
 
-        User cUser = null;
 
         DataBase db = null;
         try {
@@ -47,9 +54,9 @@ public class UserRegistrateServlet extends HttpServlet {
             e.printStackTrace();
         }
 
-        User users = null;
+        User cUser = null;
         try {
-            users = db.GetUser(inputLogin);
+            cUser = db.GetUser(inputLogin);
         } catch (SQLException e) {
             e.printStackTrace();
         } catch (ClassNotFoundException e) {

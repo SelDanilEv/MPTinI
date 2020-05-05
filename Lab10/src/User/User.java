@@ -1,9 +1,9 @@
 package User;
 
 public class User {
-    String name;
-    int password;
-    String role;
+    public String name;
+    public int password;
+    public String role;
 
     public User(String name, int password, String role) {
         this.name = name;

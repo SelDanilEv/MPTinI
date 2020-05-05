@@ -6,6 +6,18 @@
     <welcome-file-list>
         <welcome-file>login.jsp</welcome-file>
     </welcome-file-list>
+
+    <jsp-config>
+        <taglib>
+            <taglib-uri>http://mycompany.com//mytags</taglib-uri>
+            <taglib-location>/WEB-INF/SDE.tld</taglib-location>
+        </taglib>
+        <taglib>
+            <taglib-uri>http://mycompany.com//mytags1</taglib-uri>
+            <taglib-location>/WEB-INF/numberformatter.tld</taglib-location>
+        </taglib>
+    </jsp-config>
+
     <filter>
         <filter-name>f1</filter-name>
         <filter-class>User.RequestLoggingFilter</filter-class>

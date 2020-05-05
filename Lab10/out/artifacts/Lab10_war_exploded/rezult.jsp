@@ -11,6 +11,6 @@
     <title>Result Page</title>
 </head>
 <body>
-<p>Колическтво студентов в группе ${res} </p>
+<p>The file is diplayed after importing</p>
 </body>
 </html>

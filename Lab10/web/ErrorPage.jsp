@@ -7,7 +7,7 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-<head>Empty password
+<head>
     <title>Lab11_Servlets</title>
 </head>
 <body>
