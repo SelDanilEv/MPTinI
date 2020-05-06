@@ -7,6 +7,7 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/xml" prefix="x" %>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/sql" prefix="sql" %>
 <%@ taglib prefix="mytag" uri="http://mycompany.com//mytags1" %>
@@ -130,7 +131,6 @@ Format Date is : <fmt:formatDate type="time" value="${Date}"/>
             </table>
         </form>
     </div>
-    Parse Number is : 99
     <div style="order: 1;;padding: 10px;margin: 5px" class="res">
         <c:set var="MySum" value="0"/>
         <c:forEach var="row" items="${resources.rows}">
@@ -168,7 +168,26 @@ Format Date is : <fmt:formatDate type="time" value="${Date}"/>
 <mytag:formatNumber number="100050.574" format="#,###.00"/><br>
 <mytag:formatNumber number="1234.567" format="$# ###.00"/><br>
 <br>
-
+<c:set var="subj">
+    <subject>
+        <id>1</id>
+        <name>OOP</name>
+        <course>2</course>
+    </subject>
+</c:set>
+<x:parse xml="${subj}" var="output"/>
+<b>Name : </b>
+<x:out select="$output/subject[1]/name" /><br>
+<b>Course :</b>
+<x:out select="$output/subject[1]/course" />
+<br>
+<c:import
+        url="XML.xml"
+        var="SubjectsXML"/>
+<x:parse var="doc" xml="${SubjectsXML}" />
+<x:out select="$doc/subjects[1]/subject[1]"/>
+<br>
+<x:out select="$doc/subjects[1]/subject[2]"/>
 <br>
 
 <div align="center" style="margin-top: 20px">

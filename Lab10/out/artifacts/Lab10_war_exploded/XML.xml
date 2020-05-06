@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<subjects>
+    <subject>
+        <id>1</id>
+        <name>OOP</name>
+        <course>2</course>
+    </subject>
+    <subject>
+        <id>2</id>
+        <name>Java</name>
+        <course>2</course>
+    </subject>
+    <subject>
+        <id>3</id>
+        <name>DB</name>
+        <course>2</course>
+    </subject>
+</subjects>
