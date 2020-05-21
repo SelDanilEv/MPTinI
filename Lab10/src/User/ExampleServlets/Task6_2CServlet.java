@@ -30,7 +30,7 @@ public class Task6_2CServlet extends HttpServlet {
             str += "Session fail<br>";
         }
         request.setAttribute("mystr3", str);
-        request.getRequestDispatcher("login.jsp").
+        request.getRequestDispatcher("index10Lab.jsp").
                 forward(request, response);
     }
 

@@ -85,10 +85,12 @@ public class UserServlet extends HttpServlet {
             }
             request.setAttribute("list_res",resourseUsers );
             request.setAttribute("sum",sum );
-            request.getRequestDispatcher("welcome.jsp").
+            request.getRequestDispatcher("welcome.jsp").           //Lab11-12
                     forward(request, response);
 
-            //            response.getWriter().println("<br><div align=\"center\"><h3>Hello :" + cUser.role + " " + cUser.name + "<br>" + LocalDateTime.now() + "</h3></div><br>");
+//            response.getWriter().println("<br><div align=\"center\"><h3>Hello :" +     //Lab10
+//                    cUser.role + " " + cUser.name + "<br>" + LocalDateTime.now() +
+//                    "</h3></div><br>");
 
 //            Cookie ck=new Cookie("user","");//deleting value of cookie
 //            ck.setMaxAge(0);//changing the maximum age to 0 seconds

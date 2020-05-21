@@ -10,13 +10,6 @@ import java.net.UnknownHostException;
 import java.util.Scanner;
 
 public class Client2 implements AbstractClient {
-    public static void cls() {
-        try {
-            new ProcessBuilder("cmd", "/c", "cls").inheritIO().start().waitFor();
-        } catch (Exception E) {
-            System.out.println(E);
-        }
-    }
 
     public static String name;
 

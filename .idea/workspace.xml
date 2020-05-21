@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf109283-894e-46ae-800c-14cebdd7fe63" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Lab13/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab13/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab13/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab13/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab13/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab13/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab13/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab10/out/artifacts/Lab10_war_exploded/WEB-INF/classes/User/ExampleServlets/Task6_2AServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab10/out/artifacts/Lab10_war_exploded/WEB-INF/classes/User/ExampleServlets/Task6_2AServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab10/out/artifacts/Lab10_war_exploded/WEB-INF/classes/User/ExampleServlets/Task6_2BServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab10/out/artifacts/Lab10_war_exploded/WEB-INF/classes/User/ExampleServlets/Task6_2BServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab10/out/artifacts/Lab10_war_exploded/WEB-INF/classes/User/ExampleServlets/Task6_2CServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab10/out/artifacts/Lab10_war_exploded/WEB-INF/classes/User/ExampleServlets/Task6_2CServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab10/out/artifacts/Lab10_war_exploded/WEB-INF/classes/User/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab10/out/artifacts/Lab10_war_exploded/WEB-INF/classes/User/UserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab10/out/production/Lab10/User/ExampleServlets/Task6_2AServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab10/out/production/Lab10/User/ExampleServlets/Task6_2AServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab10/out/production/Lab10/User/ExampleServlets/Task6_2BServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab10/out/production/Lab10/User/ExampleServlets/Task6_2BServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab10/out/production/Lab10/User/ExampleServlets/Task6_2CServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab10/out/production/Lab10/User/ExampleServlets/Task6_2CServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab10/out/production/Lab10/User/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab10/out/production/Lab10/User/UserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab10/src/User/ExampleServlets/Task6_2AServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab10/src/User/ExampleServlets/Task6_2AServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab10/src/User/ExampleServlets/Task6_2BServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab10/src/User/ExampleServlets/Task6_2BServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab10/src/User/ExampleServlets/Task6_2CServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab10/src/User/ExampleServlets/Task6_2CServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab10/src/User/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab10/src/User/UserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/out/production/Lab9/by/belstu/it/Selitsky/Lab/Client2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab9/out/production/Lab9/by/belstu/it/Selitsky/Lab/Client2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/out/production/Lab9/by/belstu/it/Selitsky/Lab/Client2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab9/out/production/Lab9/by/belstu/it/Selitsky/Lab/Client2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/out/production/Lab9/by/belstu/it/Selitsky/Lab/ServerThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab9/out/production/Lab9/by/belstu/it/Selitsky/Lab/ServerThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/out/production/Lab9/by/belstu/it/Selitsky/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab9/out/production/Lab9/by/belstu/it/Selitsky/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/src/by/belstu/it/Selitsky/Lab/Client2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab9/src/by/belstu/it/Selitsky/Lab/Client2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/src/by/belstu/it/Selitsky/Lab/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab9/src/by/belstu/it/Selitsky/Lab/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab9/src/by/belstu/it/Selitsky/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab9/src/by/belstu/it/Selitsky/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1c7rxYNU3qSUugw9mOjiSVeldrb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf109283-894e-46ae-800c-14cebdd7fe63" name="Default Changelist" comment="" />
+      <created>1589890719323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589890719323</updated>
+      <workItem from="1589890720847" duration="8000" />
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Lab13_ExtraCopy:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87ae99b2-c016-430c-bd54-a38c365521e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/1s.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия (2)/target/classes/ConnectionCreator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия (2)/target/classes/DataBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия (2)/target/classes/ExampleServlets/Task6AServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия (2)/target/classes/ExampleServlets/Task6BServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия (2)/target/classes/ExampleServlets/Task6CServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия (2)/target/classes/ExampleServlets/Task6_2AServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия (2)/target/classes/ExampleServlets/Task6_2BServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия (2)/target/classes/ExampleServlets/Task6_2CServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия (2)/target/classes/ExampleServlets/TimeServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия (2)/target/classes/JarModule.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия (2)/target/classes/RequestLoggingFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия (2)/target/classes/ResourseUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия (2)/target/classes/Tags/NumberFormatterTag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия (2)/target/classes/Tags/SDELabledTextField.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия (2)/target/classes/Tags/SDESumbit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия (2)/target/classes/Tags/SDETable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия (2)/target/classes/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия (2)/target/classes/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия (2)/target/classes/UserRegistrateServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия (2)/target/classes/UserServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия/.idea/Lab13 — копия.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13 — копия/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13/.idea/Lab13 — копия.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13/DB.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jar/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jar/target/Lab13_ExtraCopy.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jar/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jar/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jar/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab13_ExtraCopy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/War/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/War/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/War/src/main/webapp/WEB-INF/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/War/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConnectionCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExampleServlets/Task6AServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExampleServlets/Task6BServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExampleServlets/Task6CServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExampleServlets/Task6_2AServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExampleServlets/Task6_2BServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExampleServlets/Task6_2CServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExampleServlets/TimeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RequestLoggingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ResourseUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tags/NumberFormatterTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tags/SDELabledTextField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tags/SDESumbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tags/SDETable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UserRegistrateServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/AddPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/Angel.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/ErrorPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/Footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/Header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/XML.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index10Lab.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/rezult.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/welcome.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/AddPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/Angel.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/ErrorPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/Footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/Header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/WEB-INF/SDE.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/WEB-INF/classes/ConnectionCreator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/WEB-INF/classes/DataBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/WEB-INF/classes/ExampleServlets/Task6AServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/WEB-INF/classes/ExampleServlets/Task6BServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/WEB-INF/classes/ExampleServlets/Task6CServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/WEB-INF/classes/ExampleServlets/Task6_2AServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/WEB-INF/classes/ExampleServlets/Task6_2BServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/WEB-INF/classes/ExampleServlets/Task6_2CServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/WEB-INF/classes/ExampleServlets/TimeServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/WEB-INF/classes/RequestLoggingFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/WEB-INF/classes/ResourseUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/WEB-INF/classes/Tags/NumberFormatterTag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/WEB-INF/classes/Tags/SDELabledTextField.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/WEB-INF/classes/Tags/SDESumbit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/WEB-INF/classes/Tags/SDETable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/WEB-INF/classes/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/WEB-INF/classes/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/WEB-INF/classes/UserRegistrateServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/WEB-INF/classes/UserServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/WEB-INF/numberformatter.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/XML.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/index10Lab.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/rezult.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Lab13_ExtraCopy/welcome.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ExampleServlets/Task6AServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ExampleServlets/Task6_2BServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/.idea/artifacts/Lab13_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/Lab13_New.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/main/java/DataBasePack/ConnectionCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/main/java/DataBasePack/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/main/java/User/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/main/java/User/ExampleServlets/Task6AServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/main/java/User/ExampleServlets/Task6BServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/main/java/User/ExampleServlets/Task6CServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/main/java/User/ExampleServlets/Task6_2AServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/main/java/User/ExampleServlets/Task6_2BServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/main/java/User/ExampleServlets/Task6_2CServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/main/java/User/ExampleServlets/TimeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/main/java/User/RequestLoggingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/main/java/User/ResourseUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/main/java/User/Tags/NumberFormatterTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/main/java/User/Tags/SDELabledTextField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/main/java/User/Tags/SDESumbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/main/java/User/Tags/SDETable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/main/java/User/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/main/java/User/UserRegistrateServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/main/java/User/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/web/AddPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/web/Angel.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/web/ErrorPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/web/Footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/web/Header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/web/WEB-INF/SDE.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/web/WEB-INF/lib/gson-2.8.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/web/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/web/WEB-INF/lib/jtds-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/web/WEB-INF/lib/mysql-connector.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/web/WEB-INF/lib/serializer-2.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/web/WEB-INF/lib/sqljdbc4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/web/WEB-INF/lib/xalan-2.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/web/WEB-INF/lib/xml-apis-1.3.04.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/web/WEB-INF/numberformatter.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/web/XML.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/web/index10Lab.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/web/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/web/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/web/rezult.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_New/src/web/welcome.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_TRY6R/War/War.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/Jar/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/Lab13_Try2_mult.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/java/ConnectionCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/java/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/java/ExampleServlets/Task6AServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/java/ExampleServlets/Task6BServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/java/ExampleServlets/Task6CServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/java/ExampleServlets/Task6_2AServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/java/ExampleServlets/Task6_2BServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/java/ExampleServlets/Task6_2CServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/java/ExampleServlets/TimeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/java/RequestLoggingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/java/ResourseUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/java/Tags/NumberFormatterTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/java/Tags/SDELabledTextField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/java/Tags/SDESumbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/java/Tags/SDETable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/java/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/java/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/java/UserRegistrateServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/java/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/webapp/AddPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/webapp/Angel.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/webapp/ErrorPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/webapp/Footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/webapp/Header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/webapp/WEB-INF/SDE.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/webapp/WEB-INF/numberformatter.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/webapp/XML.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/webapp/index10Lab.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/webapp/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/webapp/rezult.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_Try2_mult/src/main/webapp/welcome.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/Jar2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/Lab13_multi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/src/main/java/ConnectionCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/src/main/java/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/src/main/java/ExampleServlets/Task6AServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/src/main/java/ExampleServlets/Task6BServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/src/main/java/ExampleServlets/Task6CServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/src/main/java/ExampleServlets/Task6_2AServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/src/main/java/ExampleServlets/Task6_2BServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/src/main/java/ExampleServlets/Task6_2CServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/src/main/java/ExampleServlets/TimeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/src/main/java/RequestLoggingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/src/main/java/ResourseUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/src/main/java/Tags/NumberFormatterTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/src/main/java/Tags/SDELabledTextField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/src/main/java/Tags/SDESumbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/src/main/java/Tags/SDETable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/src/main/java/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/src/main/java/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/src/main/java/UserRegistrateServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/src/main/java/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/target/Lab13_multi/AddPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/target/Lab13_multi/Angel.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/target/Lab13_multi/ErrorPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/target/Lab13_multi/Footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/target/Lab13_multi/Header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/target/Lab13_multi/WEB-INF/SDE.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/target/Lab13_multi/WEB-INF/numberformatter.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/target/Lab13_multi/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/target/Lab13_multi/XML.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/target/Lab13_multi/index10Lab.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/target/Lab13_multi/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/target/Lab13_multi/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/target/Lab13_multi/rezult.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi/target/Lab13_multi/welcome.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/Lab13_multi_try2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/java/ConnectionCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/java/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/java/ExampleServlets/Task6AServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/java/ExampleServlets/Task6BServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/java/ExampleServlets/Task6CServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/java/ExampleServlets/Task6_2AServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/java/ExampleServlets/Task6_2BServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/java/ExampleServlets/Task6_2CServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/java/ExampleServlets/TimeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/java/RequestLoggingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/java/ResourseUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/java/Tags/NumberFormatterTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/java/Tags/SDELabledTextField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/java/Tags/SDESumbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/java/Tags/SDETable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/java/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/java/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/java/UserRegistrateServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/java/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/webapp2/AddPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/webapp2/Angel.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/webapp2/ErrorPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/webapp2/Footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/webapp2/Header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/webapp2/WEB-INF/SDE.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/webapp2/WEB-INF/numberformatter.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/webapp2/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/webapp2/XML.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/webapp2/index10Lab.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/webapp2/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/webapp2/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/webapp2/rezult.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab13_multi_try2/src/main/webapp2/welcome.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab10/out/artifacts/Lab10_war_exploded/WEB-INF/classes/User/ExampleServlets/Task6_2AServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab10/out/artifacts/Lab10_war_exploded/WEB-INF/classes/User/ExampleServlets/Task6_2AServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab10/out/artifacts/Lab10_war_exploded/WEB-INF/classes/User/ExampleServlets/Task6_2BServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab10/out/artifacts/Lab10_war_exploded/WEB-INF/classes/User/ExampleServlets/Task6_2BServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab10/out/artifacts/Lab10_war_exploded/WEB-INF/classes/User/ExampleServlets/Task6_2CServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab10/out/artifacts/Lab10_war_exploded/WEB-INF/classes/User/ExampleServlets/Task6_2CServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab10/out/artifacts/Lab10_war_exploded/WEB-INF/classes/User/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab10/out/artifacts/Lab10_war_exploded/WEB-INF/classes/User/UserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab10/out/production/Lab10/User/ExampleServlets/Task6_2AServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab10/out/production/Lab10/User/ExampleServlets/Task6_2AServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab10/out/production/Lab10/User/ExampleServlets/Task6_2BServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab10/out/production/Lab10/User/ExampleServlets/Task6_2BServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab10/out/production/Lab10/User/ExampleServlets/Task6_2CServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab10/out/production/Lab10/User/ExampleServlets/Task6_2CServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab10/out/production/Lab10/User/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab10/out/production/Lab10/User/UserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab10/src/User/ExampleServlets/Task6_2AServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab10/src/User/ExampleServlets/Task6_2AServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab10/src/User/ExampleServlets/Task6_2BServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab10/src/User/ExampleServlets/Task6_2BServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab10/src/User/ExampleServlets/Task6_2CServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab10/src/User/ExampleServlets/Task6_2CServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab10/src/User/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab10/src/User/UserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/out/production/Lab9/by/belstu/it/Selitsky/Lab/Client2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab9/out/production/Lab9/by/belstu/it/Selitsky/Lab/Client2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/out/production/Lab9/by/belstu/it/Selitsky/Lab/Client2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab9/out/production/Lab9/by/belstu/it/Selitsky/Lab/Client2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/out/production/Lab9/by/belstu/it/Selitsky/Lab/ServerThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab9/out/production/Lab9/by/belstu/it/Selitsky/Lab/ServerThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/out/production/Lab9/by/belstu/it/Selitsky/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab9/out/production/Lab9/by/belstu/it/Selitsky/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/src/by/belstu/it/Selitsky/Lab/Client2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab9/src/by/belstu/it/Selitsky/Lab/Client2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/src/by/belstu/it/Selitsky/Lab/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab9/src/by/belstu/it/Selitsky/Lab/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9/src/by/belstu/it/Selitsky/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab9/src/by/belstu/it/Selitsky/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1cALlBy35CtHIiBojUEPshFszFI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Danil\university\MPTinI\1s\Lab13_ExtraCopy\src\main\java" />
+      <recent name="E:\Danil\university\MPTinI\1s\Lab13_ExtraCopy\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="GlassFish 5.0.1" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 5.0.1" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:50156/Lab13_ExtraCopy/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Lab13_ExtraCopy:war exploded">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="DOMAIN" value="domain1" />
+        <option name="PRESERVE" value="false" />
+        <option name="COMPATIBILITY" value="false" />
+        <option name="VIRTUAL_SERVER" />
+        <option name="USERNAME" value="admin" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="GlassFish" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9009" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Lab13_ExtraCopy:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87ae99b2-c016-430c-bd54-a38c365521e4" name="Default Changelist" comment="" />
+      <created>1589966599461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589966599461</updated>
+      <workItem from="1589966603031" duration="1012000" />
+      <workItem from="1589971749313" duration="4625000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589967016840">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-2560.-531.2560.1400@0.0.1536.824" timestamp="1589967016840" />
+    <state width="1493" height="276" key="GridCell.Tab.0.bottom" timestamp="1589975178787">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="276" key="GridCell.Tab.0.bottom/0.0.1536.824/-2560.-531.2560.1400@0.0.1536.824" timestamp="1589975178787" />
+    <state width="1493" height="276" key="GridCell.Tab.0.center" timestamp="1589975178786">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="276" key="GridCell.Tab.0.center/0.0.1536.824/-2560.-531.2560.1400@0.0.1536.824" timestamp="1589975178786" />
+    <state width="1493" height="276" key="GridCell.Tab.0.left" timestamp="1589975178786">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="276" key="GridCell.Tab.0.left/0.0.1536.824/-2560.-531.2560.1400@0.0.1536.824" timestamp="1589975178786" />
+    <state width="1493" height="276" key="GridCell.Tab.0.right" timestamp="1589975178787">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="276" key="GridCell.Tab.0.right/0.0.1536.824/-2560.-531.2560.1400@0.0.1536.824" timestamp="1589975178787" />
+    <state width="1024" height="210" key="GridCell.Tab.1.bottom" timestamp="1589967637292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824/-2560.-531.2560.1400@0.0.1536.824" timestamp="1589967637292" />
+    <state width="1024" height="210" key="GridCell.Tab.1.center" timestamp="1589967637292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.center/0.0.1536.824/-2560.-531.2560.1400@0.0.1536.824" timestamp="1589967637292" />
+    <state width="1024" height="210" key="GridCell.Tab.1.left" timestamp="1589967637292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.left/0.0.1536.824/-2560.-531.2560.1400@0.0.1536.824" timestamp="1589967637292" />
+    <state width="1024" height="210" key="GridCell.Tab.1.right" timestamp="1589967637292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.right/0.0.1536.824/-2560.-531.2560.1400@0.0.1536.824" timestamp="1589967637292" />
+    <state x="209" y="73" key="new project wizard" timestamp="1589975131367">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="73" key="new project wizard/0.0.1536.824/-2560.-531.2560.1400@0.0.1536.824" timestamp="1589975131367" />
+  </component>
+</project>

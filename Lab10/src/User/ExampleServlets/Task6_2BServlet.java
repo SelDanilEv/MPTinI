@@ -35,7 +35,7 @@ public class Task6_2BServlet extends HttpServlet {
             str += "Servlet fail<br>";
         }
         request.setAttribute("mystr2", str);
-        request.getRequestDispatcher("login.jsp").
+        request.getRequestDispatcher("index10Lab.jsp").
                 forward(request, response);
     }
 

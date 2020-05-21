@@ -34,7 +34,7 @@ public class Task6_2AServlet extends HttpServlet {
             str += "Attribute fail<br>";
         }
         request.setAttribute("mystr1", str);
-        request.getRequestDispatcher("login.jsp").
+        request.getRequestDispatcher("index10Lab.jsp").
                 forward(request, response);
     }
 

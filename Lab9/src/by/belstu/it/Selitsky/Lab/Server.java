@@ -41,12 +41,8 @@ class ServerThread extends Thread {
         addr = s.getInetAddress();
     }
 
-    static StringBuilder AllChat;
-
     public void run() {
         String str;
-        if (AllChat == null)
-            AllChat = new StringBuilder("");
         try {
             while ((str = is.readLine()) != null) {
                 if (!str.substring(10).equals(" ")) {
