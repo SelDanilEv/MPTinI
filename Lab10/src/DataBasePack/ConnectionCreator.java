@@ -13,12 +13,10 @@ public class ConnectionCreator {
     private String password;
 
     public ConnectionCreator() {
-
         ResourceBundle resource = ResourceBundle.getBundle("DB");
         url = resource.getString("db.url");
         user = resource.getString("db.user");
         password = "Фвьшт";
-
     }
 
     public Connection createConnection() throws SQLException {

@@ -1,3 +1,6 @@
+import javax.jms.Destination;
+import javax.jms.JMSException;
+import javax.jms.TextMessage;
 import javax.naming.NamingException;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -9,6 +12,10 @@ import java.io.IOException;
 import java.sql.SQLException;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
+import javax.jms.*;
+import com.sun.messaging.ConnectionFactory;
+import com.sun.messaging.ConnectionConfiguration;
+import java.util.Random;
 
 @WebServlet("/UserServletTest")
 public class UserServlet extends HttpServlet {
@@ -79,8 +86,40 @@ public class UserServlet extends HttpServlet {
             }
             request.setAttribute("list_res",resourseUsers );
             request.setAttribute("sum",sum );
+
+            new Runnable() {
+                private String name;
+
+                private void start(String n){
+                    name =n;
+                    run();
+                }
+
+                @Override
+                public void run() {
+                    ConnectionFactory factory;
+                    factory = new ConnectionFactory();
+                    try (JMSContext context = factory.createContext("admin", "admin")) {
+
+                        factory.setProperty(ConnectionConfiguration.imqAddressList,
+                                "mq://127.0.0.1:7676,mq://127.0.0.1:7676");
+
+                        JMSProducer producer = context.createProducer();
+                        Destination Topic = context.createTopic("DefenderTopic");
+
+                        producer.setPriority(0).send(Topic, name + " is enter in account");
+
+                        System.out.println("OK send " + name);
+                    } catch (JMSException e) {
+                        System.out.println("Error: " + e.getMessage());
+                    }
+                }
+            }.start(cUser.name);
+
             request.getRequestDispatcher("welcome.jsp").           //Lab11-12
                     forward(request, response);
+
+
 
 //            response.getWriter().println("<br><div align=\"center\"><h3>Hello :" +     //Lab10
 //                    cUser.role + " " + cUser.name + "<br>" + LocalDateTime.now() +

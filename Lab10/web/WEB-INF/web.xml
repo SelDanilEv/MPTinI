@@ -5,6 +5,7 @@
          version="4.0">
     <welcome-file-list>
         <welcome-file>login.jsp</welcome-file>
+<!--        <welcome-file>index10Lab.jsp</welcome-file>-->
     </welcome-file-list>
 
     <jsp-config>
@@ -17,6 +18,8 @@
             <taglib-location>/WEB-INF/numberformatter.tld</taglib-location>
         </taglib>
     </jsp-config>
+
+
 
     <filter>
         <filter-name>f1</filter-name>

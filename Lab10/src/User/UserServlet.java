@@ -16,7 +16,7 @@ import java.sql.SQLException;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 
-@WebServlet("/UserServletTest")
+@WebServlet(urlPatterns = "/UserServletTest")
 public class UserServlet extends HttpServlet {
     public UserServlet() {
         super();
@@ -85,6 +85,7 @@ public class UserServlet extends HttpServlet {
             }
             request.setAttribute("list_res",resourseUsers );
             request.setAttribute("sum",sum );
+
             request.getRequestDispatcher("welcome.jsp").           //Lab11-12
                     forward(request, response);
 
@@ -92,7 +93,7 @@ public class UserServlet extends HttpServlet {
 //                    cUser.role + " " + cUser.name + "<br>" + LocalDateTime.now() +
 //                    "</h3></div><br>");
 
-//            Cookie ck=new Cookie("user","");//deleting value of cookie
+//            Cookie ck=new Cookie("user","");//deleting value of cookie    //example
 //            ck.setMaxAge(0);//changing the maximum age to 0 seconds
 //            response.addCookie(ck);//adding cookie in the response
 

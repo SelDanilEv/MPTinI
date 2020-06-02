@@ -15,7 +15,6 @@ public class UserDao {
     public UserDao() {
     }
 
-
     public void addUser(User user) throws SQLException, ClassNotFoundException {
         String query = " INSERT INTO users"
                 + " VALUES (?, ?,?)";
@@ -44,7 +43,7 @@ public class UserDao {
     }
 
     public ArrayList<ResourseUser> GetResourse(String login) throws SQLException {
-        ArrayList<ResourseUser> rc = new ArrayList<ResourseUser>();
+        ArrayList<ResourseUser> rc = new ArrayList<>();
         String query = " select *  from resources where user_login = (?) ";
         Connection connection = connectionCreator.createConnection();
         PreparedStatement statement = connection.prepareStatement(query);
